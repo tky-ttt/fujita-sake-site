@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 76" role="img" aria-labelledby="title">
+  <title id="title">お酒は二十歳になってから</title>
+  <rect x="1" y="1" width="438" height="74" rx="4" fill="#ffffff" stroke="#aeb6ae" stroke-width="1.5"/>
+  <circle cx="42" cy="38" r="25" fill="#a64e3d"/>
+  <text x="42" y="45" fill="#ffffff" font-family="Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle">20+</text>
+  <text x="82" y="46" fill="#202924" font-family="'Noto Serif JP', 'Yu Mincho', serif" font-size="22" font-weight="500">お酒は二十歳になってから。</text>
+</svg>
